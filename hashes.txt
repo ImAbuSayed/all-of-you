@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - All Of You
+
+This log tracks the cryptographic history and versioning for the song **All Of You** (all-of-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-25T04:51:51.956637 | `v1` | `d007ea1ff88059295d43ca8dd6c656555537241518c5da34874a5c40b1c423ef` | `f0acb1964ca486ab13cd18b0bc687515a27f9ecf3262254aa57dd8a95d4f047b` | `2026-05-25_all-of-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

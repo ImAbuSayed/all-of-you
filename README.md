@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/all-of-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: All Of You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/all-of-you/) |
+| **Get License** | [Obtain a Music License for All Of You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/all-of-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d007ea1ff88059295d43ca8dd6c656555537241518c5da34874a5c40b1c423ef` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
