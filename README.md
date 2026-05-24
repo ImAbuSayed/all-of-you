@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/all-of-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for All Of You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/all-of-you/) |
+| **Get License** | [License this song: All Of You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/all-of-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the heat from across the room
+> Got me breathing in your midnight perfume
+> Every single look is a spark in the dark
+> Pulling me closer right into your heart
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
